@@ -1,0 +1,55 @@
+body {
+    background-color: #ccd5ae;
+    text-align: center;
+    color: #d4a373;
+}
+
+#card {
+ width: 30%;
+ background-color: #fefae0;
+ margin: 0 auto;
+ border-radius: 10px;
+ padding: 80px;
+ margin-top: 200px;
+}
+
+input {
+    border-radius: 10px;
+    font-size: x-large;
+    border: 2px solid #e9edc9;
+}
+
+#input {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+#botao {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+}
+
+#somar{
+    background-color: #e9edc9;
+    padding: 15px;
+
+}
+
+#subtrair{
+    background-color: #e9edc9;
+    padding: 15px;
+}
+
+#multiplicar{
+    background-color: #e9edc9;
+    padding: 15px;
+}
+
+#dividir{
+    background-color: #e9edc9;
+    padding: 15px;
+}
